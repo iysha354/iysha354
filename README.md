@@ -1,9 +1,9 @@
 <p align="center">
   <img 
     src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnl5ZGlidnUzcGs4bmd3NjY4bHZubWNuamR6eDBpbHhqNXB4MWdlZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGDNsLvqsBOhuU0/giphy.gif" 
-    alt="Welcome GIF"
-    style="width: 100%; max-width: 900px; height: 150px; object-fit: cover;" 
-  />
+    height="300" 
+    style="width: auto;" 
+    alt="Welcome GIF" />
 </p>
 
 ## Hi there, 👋 welcome to my profile!
