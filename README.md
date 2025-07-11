@@ -1,5 +1,7 @@
 
-![Banner](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnl5ZGlidnUzcGs4bmd3NjY4bHZubWNuamR6eDBpbHhqNXB4MWdlZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGDNsLvqsBOhuU0/giphy.gif)
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnl5ZGlidnUzcGs4bmd3NjY4bHZubWNuamR6eDBpbHhqNXB4MWdlZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGDNsLvqsBOhuU0/giphy.gif" width="200" alt="Welcome GIF" />
+</p>
 
 ## Hi there, 👋 welcome to my profile!
 
