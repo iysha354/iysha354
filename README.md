@@ -11,9 +11,9 @@ I'm Iysha — a tech enthusiast diving deep into the **cloud world**, building *
 - 💡 **Core Concepts:** Object-Oriented Programming (OOP)
 - 📊 **Data:** Relational Databases (MySQL, PostgreSQL), data pipelines, queries & analysis  
 
+---
 
-
-- 🔭 **I’m currently working on**: Automating cloud tasks using Python & AWS services like Lambda, S3, and CloudFormation
+### - 🔭 **I’m currently working on**: Automating cloud tasks using Python & AWS services like Lambda, S3, and CloudFormation
 - 🌱 **I’m currently learning**: Azure Fundamentals, Terraform and improving my SQL data handling skills  
 - 👯 **I’m looking to collaborate on**: Cloud-native apps, data pipelines, or Python automation projects  
 - 💬 **Ask me about**: AWS services, cloud architecture basics, Python scripting, or writing efficient SQL  
