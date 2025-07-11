@@ -29,4 +29,6 @@ I'm Iysha — a tech enthusiast diving deep into the **cloud world**, building *
 - [ ] Build a CI/CD pipeline using GitHub Actions + AWS
 - [ ] Master PostgreSQL joins and window functions
 
-- 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/iyshakhan/) | [Email](mailto:iyshakhan75@gmail.com)  
+---
+
+###- 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/iyshakhan/) | [Email](mailto:iyshakhan75@gmail.com)  
