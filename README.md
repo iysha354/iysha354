@@ -1,3 +1,6 @@
+
+![Banner](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnl5ZGlidnUzcGs4bmd3NjY4bHZubWNuamR6eDBpbHhqNXB4MWdlZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGDNsLvqsBOhuU0/giphy.gif)
+
 ## Hi there, 👋 welcome to my profile!
 
 I'm Iysha — a tech enthusiast diving deep into the **cloud world**, building **Python and SQL-based projects**, and exploring **AWS (and soon Azure)** to deliver scalable, cloud-native solutions.
