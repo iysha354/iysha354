@@ -27,7 +27,7 @@ I'm Iysha — a tech enthusiast diving deep into the **cloud world**, building *
 - [x] AWS Certified Cloud Practitioner
 - [ ] Azure Fundamentals (AZ-900)
 - [ ] Build a CI/CD pipeline using GitHub Actions + AWS
-- [ ] Master PostgreSQL joins and window functions
+- [ ] Master PostgreSQL joins and Docker
 
 ---
 
