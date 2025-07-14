@@ -22,11 +22,11 @@ I'm Iysha — a tech enthusiast diving deep into the cloud world, building Pytho
 ---
 ### 📌 Exploring cloud and code to solve real-world problems — always open to collaboration and learning.
 
--  **I’m currently working on**: Automating cloud tasks using Python & AWS services like Lambda, S3, and CloudFormation
--  **I’m currently learning**: Azure Fundamentals, Terraform and improving my SQL data handling skills  
+-  **Current Focus**: Automating cloud tasks using Python & AWS services like Lambda, S3, and CloudFormation
+-  **Learning**: Azure Fundamentals, Terraform and improving my SQL data handling skills  
 
--  **I’m looking to collaborate on**: Cloud-native apps, data pipelines, or Python automation projects  
--  **Ask me about**: AWS services, cloud architecture basics, Python scripting, or writing efficient SQL  
+-  **Let's Collaborate**: Cloud-native apps, data pipelines, or Python automation projects  
+-  **Ask me about**: AWS services, cloud architecture basics, cloud security, or writing efficient SQL  
 -  **Fun fact**: I help run a weekly cloud & coffee meetup where we discuss all things cloud ☁️  
 
 ---
