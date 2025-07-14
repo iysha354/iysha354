@@ -6,8 +6,9 @@
     alt="Welcome GIF" />
 </p>
 
-## Welcome to my profile!
--
+<h2 align="center">Welcome to my profile!</h2>
+
+
 I'm Iysha — a tech enthusiast diving deep into the **cloud world**, building **Python and SQL-based projects**, and exploring **AWS (and soon Azure)** to deliver scalable, cloud-native solutions.
 ---
 
