@@ -9,21 +9,17 @@
 ## Welcome to my profile!
 
 I'm Iysha — a tech enthusiast diving deep into the **cloud world**, building **Python and SQL-based projects**, and exploring **AWS (and soon Azure)** to deliver scalable, cloud-native solutions.
-
-
-### 📫 **Let's Connect:**: [LinkedIn](https://www.linkedin.com/in/iyshakhan/) | [Email](mailto:iyshakhan75@gmail.com)  
-
 ---
 
 ### 🧰 Tech Toolbox
-- ☁️ **Cloud:** AWS (EC2, S3, Lambda, IAM, CloudFormation), learning Azure  
-- 🐍 **Languages:** Python, SQL, a bit of Bash  
-- 🛠️ **Tools & Frameworks:** Git, VSCode, learning Terraform
-- 💡 **Core Concepts:** Object-Oriented Programming (OOP)
-- 📊 **Data:** Relational Databases (MySQL, PostgreSQL), data pipelines, queries & analysis  
+-  **Cloud:** AWS (EC2, S3, Lambda, IAM, CloudFormation), learning Azure  
+-  **Languages:** Python, SQL, a bit of Bash  
+-  **Tools & Frameworks:** Git, VSCode, learning Terraform
+-  **Core Concepts:** Object-Oriented Programming (OOP)
+-  **Data:** Relational Databases (MySQL, PostgreSQL), data pipelines, queries & analysis  
 
 ---
-📌 Exploring cloud and code to solve real-world problems — always open to collaboration and learning.
+### 📌 Exploring cloud and code to solve real-world problems — always open to collaboration and learning.
 
 -  **I’m currently working on**: Automating cloud tasks using Python & AWS services like Lambda, S3, and CloudFormation
 -  **I’m currently learning**: Azure Fundamentals, Terraform and improving my SQL data handling skills  
@@ -41,3 +37,4 @@ I'm Iysha — a tech enthusiast diving deep into the **cloud world**, building *
 - [ ] Master PostgreSQL joins and Docker
 
 ---
+### 📫 **Let's Connect**: [LinkedIn](https://www.linkedin.com/in/iyshakhan/) | [Email](mailto:iyshakhan75@gmail.com)  
