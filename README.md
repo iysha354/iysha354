@@ -11,7 +11,7 @@
 I'm Iysha — a tech enthusiast diving deep into the **cloud world**, building **Python and SQL-based projects**, and exploring **AWS (and soon Azure)** to deliver scalable, cloud-native solutions.
 
 
-### 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/iyshakhan/) | [Email](mailto:iyshakhan75@gmail.com)  
+### 📫 **Let's Connect:**: [LinkedIn](https://www.linkedin.com/in/iyshakhan/) | [Email](mailto:iyshakhan75@gmail.com)  
 
 ---
 
