@@ -40,7 +40,7 @@ I'm Iysha — a tech enthusiast diving deep into the cloud world, building Pytho
 ---
 ### 📫 **Let's Connect**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/iyshakhan/)
-[![Gmail](https://img.shields.io/badge/Email-Send_Email-D44638?logo=gmail&logoColor=white&style=for-the-badge)](mailto:iyshakhan75@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/iyshakhan/)
+[![Gmail](https://img.shields.io/badge/Gmail-D44638?logo=gmail&logoColor=white&style=for-the-badge)](mailto:iyshakhan75@gmail.com)
 
 
