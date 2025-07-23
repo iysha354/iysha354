@@ -24,7 +24,6 @@ I'm Iysha — an aspiring cloud engineer and tech enthusiast with a background i
 
 -  **Current Focus**: Automating cloud tasks using Python & AWS services like Lambda, S3, and CloudFormation
 -  **Learning**: Azure Fundamentals, Terraform and improving my SQL data handling skills  
-
 -  **Let's Collaborate**: Cloud-native apps, data pipelines, or Python automation projects  
 -  **Ask me about**: AWS services, cloud architecture basics, cloud security, or writing efficient SQL  
 -  **Fun fact**: I help run a weekly cloud & coffee meetup where we discuss all things cloud ☁️  
