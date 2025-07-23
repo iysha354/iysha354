@@ -25,24 +25,19 @@ Hi, I'm Iysha! An aspiring cloud engineer and tech enthusiast with a background 
 ## 🌟 Featured Projects
 
 - 📚 **[Chapters & Chai — Book Café Management System](https://github.com/iysha354/Python/tree/main/Book%20Cafe%20Project)**  
-  Terminal-based system for managing a fictional book café’s operations.  
-  _Planned: SQL integration + AWS for remote data access._
+  Terminal-based system for managing a fictional book café’s operations. _Planned: SQL integration + AWS for remote data access._
 
 - 🏦 **[Khan Bank — Banking Management System](https://github.com/iysha354/Python/tree/main/Banking%20Management%20System%20CLI)**  
-  CLI app simulating account management, deposits, and balance tracking.  
-  _Planned: Persistent SQL storage + AWS tools like RDS or Lambda._
+  CLI app simulating account management, deposits, and balance tracking. _Planned: Persistent SQL storage + AWS tools like RDS or Lambda._
 
 - 🙌 **[Volunteer Management System](https://github.com/iysha354/Python/tree/main/Volunteer%20Management%20System)**  
-  Command-line tool for volunteer registration, task assignment, and tracking.  
-  _Planned: SQL backend and AWS-powered dashboards or alerts._
+  Command-line tool for volunteer registration, task assignment, and tracking. _Planned: SQL backend and AWS-powered dashboards or alerts._
 
 - 📈 **[My Halal Stock — Ethical Investing App](https://github.com/iysha354/Python/tree/main/Halal%20Stock%20App%20Project)**  
-  Streamlit app that filters stocks based on halal compliance using live data.  
-  _Planned: AWS deployment via EC2 or Elastic Beanstalk._
+  Streamlit app that filters stocks based on halal compliance using live data. _Planned: AWS deployment via EC2 or Elastic Beanstalk._
 
 - 💼 **[Work Social Budget Tracker](https://github.com/iysha354/Python/tree/main/Work%20Social%20Budget%20Tracker)**  
-  Simple CLI tool to plan, allocate, and track team social budgets.  
-  _Planned: CSV/SQL support + optional cloud sync via AWS._
+  Simple CLI tool to plan, allocate, and track team social budgets.  _Planned: CSV/SQL support + optional cloud sync via AWS._
 
 ---
 ### 📌 Exploring cloud and code to solve real-world problems — always open to collaboration and learning.
