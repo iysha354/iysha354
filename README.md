@@ -6,7 +6,7 @@
     alt="Welcome GIF" />
 </p>
 
-<h2 align="center">Welcome to my profile!</h2>
+<h2 align="center">Welcome to my Github!</h2>
 
 ## 🚀 Cloud Engineer | AWS-Focused | Startup & Big Tech Experience
 
