@@ -37,7 +37,7 @@ Hi, I'm Iysha! An aspiring cloud engineer and tech enthusiast with a background 
   Streamlit app that filters stocks based on halal compliance using live data. _Planned: AWS deployment via EC2 or Elastic Beanstalk._
 
 - 💼 **[Work Social Budget Tracker](https://github.com/iysha354/Python/tree/main/Work%20Social%20Budget%20Tracker)**  
-  Simple CLI tool to plan, allocate, and track team social budgets.  _Planned: CSV/SQL support + optional cloud sync via AWS._
+  Simple CLI tool to plan, allocate, and track team social budgets for employees and managers.  _Planned: CSV/SQL support + optional cloud sync via AWS._
 
 ---
 ### 📌 Exploring cloud and code to solve real-world problems — always open to collaboration and learning.
