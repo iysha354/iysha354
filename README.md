@@ -38,15 +38,9 @@ I'm Iysha — a tech enthusiast diving deep into the cloud world, building Pytho
 - [ ] Master PostgreSQL joins and Docker
 
 ---
-### <!-- Contact Buttons -->
-<div style="display: flex; gap: 10px; margin-top: 10px;">
-  <a href="https://www.linkedin.com/in/iyshakhan/" target="_blank" 
-     style="padding: 10px 20px; background-color: #0077b5; color: white; text-decoration: none; border-radius: 5px;">
-    Connect on LinkedIn
-  </a>
-  <a href="mailto:iyshakhan75@gmail.com" 
-     style="padding: 10px 20px; background-color: #D44638; color: white; text-decoration: none; border-radius: 5px;">
-    Send Email
-  </a>
-</div>
+### 📫 **Let's Connect**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/iyshakhan/)
+[![Gmail](https://img.shields.io/badge/Email-Send_Email-D44638?logo=gmail&logoColor=white&style=for-the-badge)](mailto:iyshakhan75@gmail.com)
+
 
