@@ -22,24 +22,27 @@ Hi, I'm Iysha! An aspiring cloud engineer and tech enthusiast with a background 
 -  **Data:** Relational Databases (MySQL, PostgreSQL), data pipelines, queries & analysis  
 
 ---
-
 ## 🌟 Featured Projects
 
-### 📚 [Chapters & Chai — Book Café Management System](https://github.com/iysha354/Python/tree/main/Book%20Cafe%20Project)  
-A terminal-based system for managing book café operations with inventory and customer logic.  
-Planned: SQL database + AWS integration for remote access.
+- 📚 **[Chapters & Chai — Book Café Management System](https://github.com/iysha354/Python/tree/main/Book%20Cafe%20Project)**  
+  Terminal-based system for managing a fictional book café’s operations.  
+  _Planned: SQL integration + AWS for remote data access._
 
-### 🏦 [Khani Bank — Banking Management System](https://github.com/iysha354/Python/tree/main/Banking%20Management%20System%20CLI)  
-CLI app simulating account creation, deposits, withdrawals, and balance checks.  
-Planned: SQL storage and AWS features like RDS or Lambda.
+- 🏦 **[Khan Bank — Banking Management System](https://github.com/iysha354/Python/tree/main/Banking%20Management%20System%20CLI)**  
+  CLI app simulating account management, deposits, and balance tracking.  
+  _Planned: Persistent SQL storage + AWS tools like RDS or Lambda._
 
-### 🙌 [Volunteer Management System](https://github.com/iysha354/Python/tree/main/Volunteer%20Management%20System)  
-Command-line tool to register volunteers, assign tasks, and track availability.  
-Planned: SQL backend and AWS-powered notifications or dashboards.
+- 🙌 **[Volunteer Management System](https://github.com/iysha354/Python/tree/main/Volunteer%20Management%20System)**  
+  Command-line tool for volunteer registration, task assignment, and tracking.  
+  _Planned: SQL backend and AWS-powered dashboards or alerts._
 
-### 📈 [My Halal Stock — Ethical Investing App](https://github.com/iysha354/Python/tree/main/Halal%20Stock%20App%20Project)  
-A Streamlit web app to screen stocks for halal compliance using live data.  
-Planned: Cloud deployment via AWS (EC2 or Elastic Beanstalk).
+- 📈 **[My Halal Stock — Ethical Investing App](https://github.com/iysha354/Python/tree/main/Halal%20Stock%20App%20Project)**  
+  Streamlit app that filters stocks based on halal compliance using live data.  
+  _Planned: AWS deployment via EC2 or Elastic Beanstalk._
+
+- 💼 **[Work Social Budget Tracker](https://github.com/iysha354/Python/tree/main/Work%20Social%20Budget%20Tracker)**  
+  Simple CLI tool to plan, allocate, and track team social budgets.  
+  _Planned: CSV/SQL support + optional cloud sync via AWS._
 
 ---
 ### 📌 Exploring cloud and code to solve real-world problems — always open to collaboration and learning.
