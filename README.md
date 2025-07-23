@@ -10,7 +10,7 @@
 
 ## 🚀 Cloud Developer | AWS-Focused | Startup & Big Tech Experience
 
-I'm Iysha — an aspiring cloud engineer and tech enthusiast with a background in Big Tech and start-ups, building AWS, Python and SQL-based projects and exploring Azure to deliver scalable, cloud-native solutions.
+Hi, I'm Iysha! An aspiring cloud engineer and tech enthusiast with a background in Big Tech and start-ups, building AWS, Python and SQL-based projects and exploring Azure to deliver scalable, cloud-native solutions.
 
 ---
 
