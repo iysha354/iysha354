@@ -8,13 +8,13 @@
 
 <h2 align="center">Welcome to my profile!</h2>
 
-I'm Iysha — a tech enthusiast diving deep into the cloud world, building Python and SQL-based projects, and exploring AWS (and soon Azure) to deliver scalable, cloud-native solutions.
+I'm Iysha — an aspiring cloud engineer and tech enthusiast with a background in Big Tech and start-ups, building AWS, Python and SQL-based projects and exploring Azure to deliver scalable, cloud-native solutions.
 
 ---
 
 ### 🧰 Tech Toolbox
 -  **Cloud:** AWS (EC2, S3, Lambda, IAM, CloudFormation), learning Azure  
--  **Languages:** Python, SQL, a bit of Bash  
+-  **Languages:** Python, SQL & Bash 
 -  **Tools & Frameworks:** Git, VSCode, learning Terraform
 -  **Core Concepts:** Object-Oriented Programming (OOP)
 -  **Data:** Relational Databases (MySQL, PostgreSQL), data pipelines, queries & analysis  
