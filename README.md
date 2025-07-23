@@ -22,6 +22,26 @@ Hi, I'm Iysha! An aspiring cloud engineer and tech enthusiast with a background 
 -  **Data:** Relational Databases (MySQL, PostgreSQL), data pipelines, queries & analysis  
 
 ---
+
+## 🌟 Featured Projects
+
+### 📚 [Chapters & Chai — Book Café Management System](https://github.com/iysha354/Python/tree/main/Book%20Cafe%20Project)  
+A terminal-based system for managing book café operations with inventory and customer logic.  
+Planned: SQL database + AWS integration for remote access.
+
+### 🏦 [Khani Bank — Banking Management System](https://github.com/iysha354/Python/tree/main/Banking%20Management%20System%20CLI)  
+CLI app simulating account creation, deposits, withdrawals, and balance checks.  
+Planned: SQL storage and AWS features like RDS or Lambda.
+
+### 🙌 [Volunteer Management System](https://github.com/iysha354/Python/tree/main/Volunteer%20Management%20System)  
+Command-line tool to register volunteers, assign tasks, and track availability.  
+Planned: SQL backend and AWS-powered notifications or dashboards.
+
+### 📈 [My Halal Stock — Ethical Investing App](https://github.com/iysha354/Python/tree/main/Halal%20Stock%20App%20Project)  
+A Streamlit web app to screen stocks for halal compliance using live data.  
+Planned: Cloud deployment via AWS (EC2 or Elastic Beanstalk).
+
+---
 ### 📌 Exploring cloud and code to solve real-world problems — always open to collaboration and learning.
 
 -  **Current Focus**: Automating cloud tasks using Python & AWS services like Lambda, S3, and CloudFormation
