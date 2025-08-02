@@ -22,7 +22,7 @@ Hi, I'm Iysha! An aspiring cloud engineer and tech enthusiast with a background 
 -  **Data:** Relational Databases (MySQL, PostgreSQL), data pipelines, queries & analysis  
 
 ---
-## 🌟 Featured Projects
+## 🌟 Featured Python Projects
 
 - 📚 **[Chapters & Chai — Book Café Management System](https://github.com/iysha354/Python/tree/main/Book%20Cafe%20Project)**  
   Terminal-based system for managing a fictional book café’s operations. _Planned: SQL integration + AWS for remote data access._
