@@ -14,7 +14,7 @@ Hi, I'm Iysha! An aspiring cloud engineer and tech enthusiast with a background 
 
 ---
 
-### 🧰 Tech Toolbox
+### 🧰 Tech Toolbox 
 -  **Cloud:** AWS (EC2, S3, Lambda, IAM, CloudFormation), learning Azure  
 -  **Languages:** Python, SQL & Bash 
 -  **Tools & Frameworks:** Git, VSCode, learning Terraform
