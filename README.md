@@ -1,7 +1,7 @@
 <p align="center">
   <img 
     src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnl5ZGlidnUzcGs4bmd3NjY4bHZubWNuamR6eDBpbHhqNXB4MWdlZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGDNsLvqsBOhuU0/giphy.gif"
-    width="40%"
+    width="50%"
     alt="Welcome to my GitHub"
   />
 </p>
@@ -60,6 +60,7 @@ I'm currently expanding my skills in **Terraform, Docker, Azure, and Infrastruct
 ## 🔑 Authentication Security Application
 
 **Python | Flask | MySQL | API Security | Incident Analysis**
+
 Developed a **Flask-based authentication API** backed by a MySQL database, with a focus on exploring and mitigating common authentication and application security threats.
 Created security incident scenarios and reports covering:
 
@@ -77,6 +78,7 @@ The project combines **secure application development with practical security in
 ## 👥 RBAC Access Control & Monitoring Application
 
 **Python | MySQL | RBAC | Access Control | Security Reporting**
+
 Built a Python and MySQL-based **Role-Based Access Control (RBAC)** application for monitoring user access to protected resources.
 The Python application analyses user activity against assigned roles and permissions to identify instances where users attempt to access resources they are **not authorised to access**.
 The system then generates **access reports** that can be used for:
@@ -93,6 +95,7 @@ The system then generates **access reports** that can be used for:
 ## 📰 Threat Intelligence Dashboard
 
 **Python | Threat Intelligence | Automation | Security Reporting**
+
 Developed a cybersecurity **Threat Intelligence Dashboard** that collates cybersecurity news and threat information from multiple areas of security into a centralised view.
 The project produces:
 
