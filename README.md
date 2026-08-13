@@ -28,47 +28,6 @@ I'm currently expanding my skills in **Terraform, Docker, Azure, and Infrastruct
 
 ---
 
-## 🧰 Tech Toolbox
-
-**🔐 Cybersecurity**
-
-* Blue Team & defensive security
-* Authentication security
-* Identity & Access Management (IAM)
-* Role-Based Access Control (RBAC)
-* Threat intelligence
-* Incident analysis & reporting
-* Application security
-* Cloud security
-
-**☁️ Cloud**
-* AWS — EC2, S3, Lambda, IAM & CloudFormation
-* Learning Microsoft Azure
-
-**💻 Languages**
-* Python
-* SQL
-* Bash
-
-**🌐 Applications & APIs**
-* Flask
-* REST APIs
-* External API integrations
-
-**🗄️ Databases**
-* MySQL
-* PostgreSQL
-* Relational database design & queries
-
-**🛠️ Tools & Technologies**
-* Git & GitHub
-* VS Code
-* Windows Task Scheduler
-* Learning Terraform
-* Learning Docker
-
----
-
 <h3 align="left">Languages & Tools</h3>
 
 <p align="left">
@@ -219,7 +178,50 @@ These labs complement my **AWS Certified Cloud Practitioner** knowledge with pra
 **🔗 [View AWS Security Labs](https://github.com/iysha354/AWS-Security-Labs)**
 
 ---
+---
 
+## 🧰 Tech Toolbox
+
+**🔐 Cybersecurity**
+
+* Blue Team & defensive security
+* Authentication security
+* Identity & Access Management (IAM)
+* Role-Based Access Control (RBAC)
+* Threat intelligence
+* Incident analysis & reporting
+* Application security
+* Cloud security
+
+**☁️ Cloud**
+* AWS — EC2, S3, Lambda, IAM & CloudFormation
+* Learning Microsoft Azure
+
+**💻 Languages**
+* Python
+* SQL
+* Bash
+
+**🌐 Applications & APIs**
+* Flask
+* REST APIs
+* External API integrations
+
+**🗄️ Databases**
+* MySQL
+* PostgreSQL
+* Relational database design & queries
+
+**🛠️ Tools & Technologies**
+* Git & GitHub
+* VS Code
+* Windows Task Scheduler
+* Learning Terraform
+* Learning Docker
+
+---
+
+---
 # 🎯 Current Focus
 
 I'm currently focused on developing the practical skills required for **Security Engineering and Blue Team roles**, particularly across:
