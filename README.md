@@ -1,7 +1,7 @@
 <p align="center">
   <img 
     src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnl5ZGlidnUzcGs4bmd3NjY4bHZubWNuamR6eDBpbHhqNXB4MWdlZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGDNsLvqsBOhuU0/giphy.gif"
-    width="80%"
+    width="40%"
     alt="Welcome to my GitHub"
   />
 </p>
@@ -163,7 +163,6 @@ These labs complement my **AWS Certified Cloud Practitioner** knowledge with pra
 **🔗 [View AWS Security Labs](https://github.com/iysha354/AWS-Security-Labs)**
 
 ---
----
 
 ## 🧰 Tech Toolbox
 
@@ -190,32 +189,19 @@ These labs complement my **AWS Certified Cloud Practitioner** knowledge with pra
 * Learning Docker
 
 ---
-# 🎯 Current Focus
-
-I'm currently focused on developing the practical skills required for **Security Engineering and Blue Team roles**, particularly across:
-
-* 🏗️ Terraform & Infrastructure as Code
-* 🐳 Docker & containerisation
-* 📚 CompTIA Security+ preparation
-
----
 
 # 🛣️ Learning & Progress
 
 ### ✅ Completed
-
 * [x] ☁️ **AWS Certified Cloud Practitioner**
 * [x] 🎓 **AWS re/Start Bootcamp**
 * [x] 💻 **Code First Girls (CFG)degree**
 
-
 ### 📚 Currently Learning
-
 * [ ] 🛡️ **CompTIA Security+**
 * [ ] 🏗️ **Terraform**
 * [ ] 🐳 **Docker**
 * [ ] 🔷 **Microsoft Azure**
-
 
 ### 🚀 What's Next?
 
