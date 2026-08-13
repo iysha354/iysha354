@@ -1,7 +1,7 @@
 <p align="center">
   <img 
     src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnl5ZGlidnUzcGs4bmd3NjY4bHZubWNuamR6eDBpbHhqNXB4MWdlZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGDNsLvqsBOhuU0/giphy.gif"
-    width="100%"
+    width="80%"
     alt="Welcome to my GitHub"
   />
 </p>
@@ -42,30 +42,25 @@ I'm currently expanding my skills in **Terraform, Docker, Azure, and Infrastruct
 * Cloud security
 
 **☁️ Cloud**
-
 * AWS — EC2, S3, Lambda, IAM & CloudFormation
 * Learning Microsoft Azure
 
 **💻 Languages**
-
 * Python
 * SQL
 * Bash
 
 **🌐 Applications & APIs**
-
 * Flask
 * REST APIs
 * External API integrations
 
 **🗄️ Databases**
-
 * MySQL
 * PostgreSQL
 * Relational database design & queries
 
 **🛠️ Tools & Technologies**
-
 * Git & GitHub
 * VS Code
 * Windows Task Scheduler
@@ -121,7 +116,7 @@ Created security incident scenarios and reports covering:
 
 The project combines **secure application development with practical security investigation**, allowing me to analyse attack behaviour, document incidents, and consider appropriate security controls.
 
-**🔗 [View Project](YOUR_AUTHENTICATION_PROJECT_LINK)**
+**🔗 [View Project](https://github.com/iysha354/Authentication_Project)**
 
 ---
 
@@ -140,7 +135,7 @@ The system then generates **access reports** that can be used for:
 * Supporting security audits
 * Investigating potential access-control violations
 
-**🔗 [View Project](YOUR_RBAC_PROJECT_LINK)**
+**🔗 [View Project](https://github.com/iysha354/RBAC-Project)**
 
 ---
 
@@ -158,7 +153,7 @@ The project produces:
 
 This project strengthened my understanding of how threat intelligence can be **collected, analysed, automated, and transformed into actionable security reporting**.
 
-**🔗 [View Project](YOUR_THREAT_INTELLIGENCE_PROJECT_LINK)**
+**🔗 [View Project](https://github.com/iysha354/Threat-Intelligence-Dashboard-Report)**
 
 ---
 
@@ -179,7 +174,7 @@ Alongside the application, I produced:
 
 This project gave me experience combining **API development, databases, external services, collaborative development, and application security analysis**.
 
-**🔗 [View Project](YOUR_SHEWROTEIT_PROJECT_LINK)**
+**🔗 [View Project](https://github.com/iysha354/SheWroteit_API-project)**
 
 ---
 
@@ -200,7 +195,7 @@ The repository contains lab files and exercises covering areas such as:
 
 These labs allow me to apply security concepts in practical environments rather than relying solely on theoretical knowledge.
 
-**🔗 [View TryHackMe Labs](YOUR_TRYHACKME_REPO_LINK)**
+**🔗 [View TryHackMe Labs](https://github.com/iysha354/TryHackMe)**
 
 ---
 
@@ -221,7 +216,7 @@ Through these labs, I've worked with AWS security concepts including:
 
 These labs complement my **AWS Certified Cloud Practitioner** knowledge with practical security-focused experience in AWS environments.
 
-**🔗 [View AWS Security Labs](YOUR_AWS_SECURITY_LABS_LINK)**
+**🔗 [View AWS Security Labs](https://github.com/iysha354/AWS-Security-Labs)**
 
 ---
 
