@@ -19,7 +19,7 @@ Building practical security projects with Python, AWS, Flask & MySQL.
 ## 👩‍💻 About Me
 
 I'm an aspiring **Security Engineer** and tech enthusiast with experience across **Big Tech and start-ups**, currently developing my skills across **Blue Team security, cloud security, threat intelligence, access control, and security automation**.
-I enjoy building security-focused projects that combine **Python, Flask, MySQL, APIs, and AWS** with real-world cybersecurity scenarios — from analysing authentication attacks and monitoring unauthorised access to automating threat intelligence reporting.
+I enjoy building security-focused projects that combine **Python, Flask, MySQL, APIs, and AWS** with real-world cybersecurity scenarios, from analysing authentication attacks and monitoring unauthorised access to automating threat intelligence reporting.
 I've completed the **AWS re/Start Bootcamp** and **Code First Girls (CFG)degree**, and I'm an **AWS Certified Cloud Practitioner**.
 I'm currently expanding my skills in **Terraform, Docker, Azure, and Infrastructure as Code**, while preparing to sit the **CompTIA Security+** exam.
 
