@@ -8,7 +8,8 @@
 
 <h1 align="center">Hi, I'm Iysha 👋</h1>
 
-<h3 align="center">🔐 Aspiring Security Engineer | Blue Team | Cloud Security</h3>
+<h3 align="center">🔐 Aspiring Security Engineer | IAM | Blue Team | Cloud Security
+</h3>
 
 <p align="center">
 Building practical security projects with Python, AWS, Flask & MySQL.
